@@ -1,7 +1,7 @@
 # Exp-No-10: Implementation of Classical Planning Algorithm 
 
-### NAME: Jeshwnath R
-### REG NO: 2305003003
+### NAME: KAVYA T
+### REG NO: 2305003004
 
 ## AIM: 
 To implement classical planning algorithm for practical real-life situations
